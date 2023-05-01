@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daydone
-- 👀 I’m interested in ...AWS, Python and Linux.
+- 👀 I’m interested in ...AWS, Python and Automation.
 - 🌱 I’m currently learning ... AWS/Python and AI
 - 💞️ I’m looking to collaborate on ... Any interesting projects.
 - 📫 How to reach me ... finbaroday@gmail.com
