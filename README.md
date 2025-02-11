@@ -4,4 +4,4 @@ I am an experienced engineer with a passion for Node.js Cloud Technologies, Pyth
 
 💞️ I’m looking to collaborate on any interesting projects where I can apply my skills and learn from others.
 
-📫 You can reach me at finbaroday@gmail.com to discuss potential collaborations or opportunities.
+📫 You can reach me at finbar@finbarday.io to discuss potential collaborations or opportunities.
